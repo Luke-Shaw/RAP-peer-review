@@ -23,23 +23,18 @@ The aim of this group is to:
 ## Attendees
 
 (Facilitator)
-Alex
-Best Practice & Impact Division in ONS. Facilitator of Task & Finish Group
+Alex. Best Practice & Impact Division in ONS. Facilitator of Task & Finish Group
 
-Steve
-Steve, Data Scientist PHE, Automation of processes, R packages
+Steve. Data Scientist PHE, Automation of processes, R packages
 
-Paul
+Paul.
 
-David
-At start of RAP journey, in VOA
+David. At start of RAP journey, in VOA
 
-Warwick
-Role is to help spread capability across CQC
+Warwick. Role is to help spread capability across CQC
 
 (Chair)
-Luke
-Statistician in DfE, not linked to RAP currently
+Luke. Statistician in DfE, not linked to RAP currently
 
 ## Relevant Resources
 
