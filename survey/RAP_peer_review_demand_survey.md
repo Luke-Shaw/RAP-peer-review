@@ -138,7 +138,19 @@ If no, please go to question 10, otherwise:
     Functional code in project with VC and unit testing <br> `numeric
     input` Functions in package with VC and unit testing
 
-13. How useful would your **team/department** find a RAP peer review
+13. What timescales would the peer review of these projects need to be
+    completed in?
+
+<!-- end list -->
+
+  - 1 week
+  - 1 month
+  - 3 months
+  - No limit
+
+<!-- end list -->
+
+14. How useful would your **team/department** find a RAP peer review
     scheme?
 
 <!-- end list -->
@@ -150,7 +162,7 @@ If no, please go to question 10, otherwise:
 
 <!-- end list -->
 
-14. Does your team/wider department have code that would benefit from
+15. Does your team/wider department have code that would benefit from
     being reviewed from the perspective of RAP?
 
 <!-- end list -->
@@ -160,7 +172,7 @@ If no, please go to question 10, otherwise:
 
 <!-- end list -->
 
-15. **If yes**, please estimate the rough number of your projects that
+16. **If yes**, please estimate the rough number of your projects that
     would benefit from RAP peer review in each of the following
     categories: <br> `numeric input` Ad hoc code <br> `numeric input`
     Code in project <br> `numeric input` Code in project with version
@@ -168,9 +180,19 @@ If no, please go to question 10, otherwise:
     and unit testing <br> `numeric input` Functions in package with VC
     and unit testing
 
+17. What timescales would the peer review of these projects need to be
+    completed in?
+
+<!-- end list -->
+
+  - 1 week
+  - 1 month
+  - 3 months
+  - No limit
+
 ### Capacity to support RAP peer reviews
 
-16. Would you be willing to peer review others code?
+18. Would you be willing to peer review others code?
 
 <!-- end list -->
 
@@ -179,7 +201,7 @@ If no, please go to question 10, otherwise:
 
 **If yes:**
 
-17. Using the above brief definitions, what level of RAPs would you be
+19. Using the above brief definitions, what level of RAPs would you be
     able to review?
 
 <!-- end list -->
@@ -192,7 +214,7 @@ If no, please go to question 10, otherwise:
 
 <!-- end list -->
 
-18. On average, how many hours a month would you be able to committ to
+20. On average, how many hours a month would you be able to committ to
     supporting RAP peer reviews?
 
 <!-- end list -->
