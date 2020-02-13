@@ -170,7 +170,7 @@ If no, please go to question 10, otherwise:
 
 ### Capacity to support RAP peer reviews
 
-16. Would you be willing to support peer reviewing others code?
+16. Would you be willing to peer review others code?
 
 <!-- end list -->
 
