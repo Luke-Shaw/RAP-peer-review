@@ -24,7 +24,7 @@ how much time they can commit. Once we understand the commitment and
 desire, and what a case study looks like, we will present the results to
 the RAP Champions network.
 
-1.  Please select which Civil Service deparment you are in: <br> `drop
+1.  Please select which Civil Service department you are in: <br> `drop
     down menu with options`
 
 2.  If other department, please state which divison and function: <br>
@@ -120,8 +120,8 @@ If no, please go to question 10, otherwise:
 
 <!-- end list -->
 
-11. Do **you** have code that would benefit from being reviewed in terms
-    of meeting RAP principles?
+11. Do **you** have code that would benefit from being reviewed from the
+    perspective of RAP?
 
 <!-- end list -->
 
@@ -130,13 +130,13 @@ If no, please go to question 10, otherwise:
 
 <!-- end list -->
 
-12. **If yes**, using the above brief definitions, please indicate the
-    rough number of code/projects you have in each of the below
-    categories that would benefit from RAP peer review:<br>`numeric
-    input` Ad hoc code <br> `numeric input` Code in project <br>
-    `numeric input` Code in project with version control (VC) <br>
-    `numeric input` Functional code in project with VC and unit testing
-    <br> `numeric input` Functions in package with VC and unit testing
+12. **If yes**, using the above brief definitions, please estimate the
+    rough number of your projects that would benefit from RAP peer
+    review in each of the following categories:<br>`numeric input` Ad
+    hoc code <br> `numeric input` Code in project <br> `numeric input`
+    Code in project with version control (VC) <br> `numeric input`
+    Functional code in project with VC and unit testing <br> `numeric
+    input` Functions in package with VC and unit testing
 
 13. How useful would your **team/department** find a RAP peer review
     scheme?
@@ -151,7 +151,7 @@ If no, please go to question 10, otherwise:
 <!-- end list -->
 
 14. Does your team/wider department have code that would benefit from
-    being reviewed in terms of meeting RAP principles?
+    being reviewed from the perspective of RAP?
 
 <!-- end list -->
 
@@ -160,17 +160,17 @@ If no, please go to question 10, otherwise:
 
 <!-- end list -->
 
-15. **If yes**, please indicate the rough number of code/projects your
-    team/wider department has in each of the below categories that would
-    benefit from RAP peer review <br> `numeric input` Ad hoc code <br>
-    `numeric input` Code in project <br> `numeric input` Code in project
-    with version control (VC) <br> `numeric input` Functional code in
-    project with VC and unit testing <br> `numeric input` Functions in
-    package with VC and unit testing
+15. **If yes**, please estimate the rough number of your projects that
+    would benefit from RAP peer review in each of the following
+    categories: <br> `numeric input` Ad hoc code <br> `numeric input`
+    Code in project <br> `numeric input` Code in project with version
+    control (VC) <br> `numeric input` Functional code in project with VC
+    and unit testing <br> `numeric input` Functions in package with VC
+    and unit testing
 
 ### Capacity to support RAP peer reviews
 
-15. Would you be willing to support peer reviewing others code?
+16. Would you be willing to support peer reviewing others code?
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@ If no, please go to question 10, otherwise:
 
 **If yes:**
 
-16. Using the above brief definitions, what level of RAPs would you be
+17. Using the above brief definitions, what level of RAPs would you be
     able to review?
 
 <!-- end list -->
@@ -192,7 +192,7 @@ If no, please go to question 10, otherwise:
 
 <!-- end list -->
 
-17. On average, how many hours a month would you be able to committ to
+18. On average, how many hours a month would you be able to committ to
     supporting RAP peer reviews?
 
 <!-- end list -->
