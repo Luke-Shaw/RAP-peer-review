@@ -11,19 +11,17 @@ The aims of a RAP peer review scheme include:
 
   - Improve the quality of coding and in particular promoting the use of
     RAPs
-
   - Provide feedback on code to support development of use and quality
     of RAP
-
   - Improve cross department development by reviewing each others code
-
   - Helping people develop the ability to see how other organisations
     apply RAP
-
   - Develop good practises from other authors and reviewers
 
-  - `Distinguish from QA - how it's been written, have they done what
-    they've said they've done.`
+Peer review isn’t about quality assuring analysis or the accuracy and
+quality of outputs, but rather about seeing how the code is structured
+and whether it is reproducible and easily maintainable. It’s not
+checking what you’ve written, it’s how you’ve written it.
 
 This survey is to help us assess the demand for a RAP peer review
 scheme, how many people are willing to participate in such a scheme and
